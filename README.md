@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭Undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta **a chat app**
+ 🔭Undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta 
  
 ⚡ Front-end Web and UI/UX Enthusiast
 
