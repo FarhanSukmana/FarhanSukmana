@@ -14,7 +14,7 @@
  
 ⚡ Front-end Web and UI/UX Enthusiast
 
- 🌱 I’m currently learning **React, Vue, Vite, Tailwind, Javascript, Css, Html**
+ 🌱 I’m currently learning **React, Vue, Vite, Tailwind, Javascript, Css, Html, Php**
 
 💬 I’m currently open for: An Intern or a new job opportunity.
 
