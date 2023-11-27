@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,vercel, php" /><br>
 </div>
 
 <br/>
